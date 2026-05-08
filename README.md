@@ -1,1 +1,1 @@
-# INF1015
+Computability chair at Pontifical Catholic University of Rio de Janeiro on the first semester of 2026.
